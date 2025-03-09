@@ -1,0 +1,12 @@
+[C++]
+code/c++/template.cpp	C++ Template
+code/c++/bits.cpp	Bits Manipulation
+code/c++/random.cpp	Random
+code/c++/other.cpp	Other
+
+[Heuristics]
+code/heuristics/ant_colony.cpp  Ant Colny Optimization
+code/heuristics/genetic_algorithm.cpp Genetic Algorithm
+code/heuristics/grasp.cpp GRASP
+code/heuristics/simulated_annealing.cpp Simulated Annealing
+code/heuristics/tabu_search.cpp Tabu Search
